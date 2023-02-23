@@ -1,0 +1,36 @@
+{
+    "conversions" :[
+        {
+            "name" : "Nuñez maria ",
+            "email": "Nuñezmaria@gmail.cum",
+            "Telefon" : "634566700",
+            "Numconversió" : "20",
+            "Numgrausconvertits" : "47"
+
+
+            
+        },
+         {
+            "name" : "Adria josep ",
+            "email": "Adriajosep@gmail.cum",
+            "Telefon" : "634563200",
+            "Numconversió" : "10",
+            "Numgrausconvertits" : "27"
+
+
+            
+        },
+         {
+            "name" : "pedeo miro ",
+            "email": "pmiro@gmail.cum",
+            "Telefon" : "634122700",
+            "Numconversió" : "15",
+            "Numgrausconvertits" : "40"
+
+
+            
+        }
+    ]
+
+
+}
